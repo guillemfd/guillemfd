@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Coding projects**
 
-- 💬 Ask me about **Coding, Technology, Photography, Design, Architecture, Veterinary**
+- 💬 Ask me about **Coding, Technology, Photography, Design, Architecture, Science, Veterinary**
 
 - 📫 How to reach me **guillemfd@guillemfd.com**
 
