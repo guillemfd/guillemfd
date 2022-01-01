@@ -15,6 +15,8 @@
 <a href="https://linkedin.com/in/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillemfd" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
 
+<br style=“line-height:2;”>
+
 <h3 align="left">About me:</h3>
 <p><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!)
 I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges.
@@ -22,6 +24,7 @@ I am a multi-disciplinary person; I have always tried to work into what I love, 
 Fast learner. Great at tech and motivated to succeed. 💡</i>
 </p>
 
+<br style=“line-height:2;”>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <h4 align="left">Coding:</h4>
