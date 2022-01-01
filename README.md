@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Guillem!</h1>
-<h3 align="center">Web Developer & Industrial Designer</h3>
+<!-- <h3 align="center">Web Developer & Industrial Designer</h3> -->
+<!-- <h3 align="center">About me:</h3> -->
+<p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!)
+I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges.
+
+Fast learner. Great at tech and motivated to succeed. 💡</i>
+</p>
 
 
 - 🌱 I’m currently focused on **HTML5, CSS3, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, REACTJS,**
@@ -13,18 +19,18 @@
 <a href="https://instagram.com/https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
 
 
-<br style=“line-height:2;”>
-
-<h3 align="left">About me:</h3>
-<p><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!)
+<!-- <br style=“line-height:2;”>
+ -->
+<!-- <h3 align="center">About me:</h3>
+<p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!)
 I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges.
 
 Fast learner. Great at tech and motivated to succeed. 💡</i>
-</p>
+</p> -->
 
 <br style=“line-height:2;”>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>``
 <p align="left"> <h4 align="left">Coding:</h4>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   
@@ -39,11 +45,9 @@ Fast learner. Great at tech and motivated to succeed. 💡</i>
 <a href="https://www.repetier.com/" target="_blank"> <img src="https://i2.wp.com/www3.gobiernodecanarias.org/medusa/ecoescuela/3d/files/2020/03/repetier2.png?fit=225%2C225&ssl=1" alt="Repetier" width="40" height="40"/> </a> <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/9/9b/Logo_for_Cura_Software.png" alt="Cura" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.pronterface.com/" target="_blank"> <img src="https://reposcope.com/media/unknown/none/unknown/pronterface.png" alt="Pronterface" width="40" height="40"/> </a>
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues&theme=gruvbox&show_icons=true" />
 </p>
-
-<p align="center" src="https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues&theme=gruvbox&show_icons=true"></p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillemfd&show_icons=true&locale=en&layout=compact" alt="guillemfd" />
