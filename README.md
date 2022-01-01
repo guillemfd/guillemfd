@@ -45,9 +45,9 @@ Fast learner. Great at tech and motivated to succeed. 💡</i>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues&theme=gruvbox&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillemfd&show_icons=true&locale=en&theme=gruvbox" alt="guillemfd" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillemfd&show_icons=true&locale=en&layout=compact" alt="guillemfd" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues&theme=gruvbox&show_icons=true" alt="guillemfd" />
 </p>
