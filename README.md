@@ -2,11 +2,10 @@
 <!-- <h3 align="center">Web Developer & Industrial Designer</h3> -->
 <!-- <h3 align="center">About me:</h3> -->
 <p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!)
-I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges.
-
-Fast learner. Great at tech and motivated to succeed. 💡</i>
+I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges. Fast learner. Great at tech and motivated to succeed. 💡</i>
 </p>
 
+<br style=“line-height:2;”>
 
 - 🌱 I’m currently focused on **HTML5, CSS3, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, REACTJS,**
 
@@ -30,7 +29,7 @@ Fast learner. Great at tech and motivated to succeed. 💡</i>
 
 <br style=“line-height:2;”>
 
-<h3 align="left">Languages and Tools:</h3>``
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <h4 align="left">Coding:</h4>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
   
@@ -49,6 +48,6 @@ Fast learner. Great at tech and motivated to succeed. 💡</i>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues&theme=gruvbox&show_icons=true" />
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillemfd&show_icons=true&locale=en&layout=compact" alt="guillemfd" />
 </p>
