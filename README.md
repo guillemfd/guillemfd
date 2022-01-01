@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guillem!</h1>
 <h3 align="center">Product Designer becoming a Web Developer</h3>
 
-<p>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues&theme=gruvbox&show_icons=true" />
-</p>
+</a>
 
 - 🌱 I’m currently focused on **HTML5, CSS3, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, REACTJS,**
 
@@ -14,6 +14,16 @@
 - 📫 How to reach me **guillemfd@guillemfd.com** <a href="https://codepen.io/https://codepen.io/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/guillemfd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillemfd" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
+
+<h3 align="left"><i>About me:</i></h3>
+<p>
+  Hello! 👋
+
+This is Guillem, licensed in Product Design 📐 and recently graduated in Web Development 💾 (among other things!)
+I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges.
+
+Fast learner. Great at tech and motivated to succeed 💡
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <h4 align="left">Coding:</h4>
