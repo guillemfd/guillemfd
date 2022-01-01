@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillem!</h1>
 <h3 align="center">Product Designer becoming a Web Developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillemfd)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently focused on **HTML5, CSS3, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, REACTJS,**
 
