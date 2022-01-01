@@ -16,12 +16,12 @@
 <a href="https://instagram.com/https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
 
 <h3 align="left">About me:</h3>
-<p>
-  <i>Licensed in Product Design 📐 and recently graduated in Web Development 💾 (among other things!)
+<p><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!)
 I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges.
 
-Fast learner. Great at tech and motivated to succeed 💡</i>
+Fast learner. Great at tech and motivated to succeed. 💡</i>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <h4 align="left">Coding:</h4>
