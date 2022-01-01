@@ -11,14 +11,9 @@
 
 - 💬 Ask me about **Coding, Technology, Photography, Design, Architecture, Science, Veterinary**
 
-- 📫 How to reach me **guillemfd@guillemfd.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/guillemfd" height="30" width="40" /></a>
+- 📫 How to reach me **guillemfd@guillemfd.com** <a href="https://codepen.io/https://codepen.io/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/guillemfd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillemfd" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <h4 align="left">Coding:</h4>
