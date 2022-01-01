@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guillem!</h1>
 <h3 align="center">Product Designer becoming a Web Developer</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues&theme=gruvbox&show_icons=true" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guillemfd&hide=stars,issues&theme=gruvbox&show_icons=true" />
+</p>
 
 - 🌱 I’m currently focused on **HTML5, CSS3, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, REACTJS,**
 
