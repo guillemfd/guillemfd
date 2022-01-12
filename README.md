@@ -13,9 +13,10 @@ I am a multi-disciplinary person; I have always tried to work into what I love, 
 
 - 💬 Ask me about **Coding, Technology, Photography, Design, Architecture, Science, Veterinary**
 
-- 📫 How to reach me **guillemfd@guillemfd.com** <a href="https://codepen.io/https://codepen.io/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/guillemfd" height="30" width="40" /></a>
+- 📫 How to reach me **guillemfd@guillemfd.com** 
+<a href="https://codepen.io/https://codepen.io/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/guillemfd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillemfd" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
 
 
 <!-- <br style=“line-height:2;”>
