@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guillem!</h1>
 <!-- <h3 align="center">Web Developer & Industrial Designer</h3> -->
 <!-- <h3 align="center">About me:</h3> -->
-<p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!)
-I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges. Fast learner. Great at tech and motivated to succeed. 💡</i>
+<p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!) <br/>
+I am a multi-disciplinary person; I have always tried to work in my passions, and this has requested me to get specialised in different fields. <br/>
+I love when a project mixes technic, creative and challenging skills, so this is why I am landing into web development. <br/>
+Fast learner. Great at tech and motivated to succeed as a MERN fullstack. 🚀</i>
 </p>
 
 <br style=“line-height:2;”>
