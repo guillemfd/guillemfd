@@ -13,7 +13,7 @@ Fast learner. Great at tech and motivated to succeed as a MERN fullstack. 🚀</
 
 - 👯 I’m looking to collaborate on **Coding projects**
 
-- 💬 Ask me about **Coding, Technology, Photography, Design, Architecture, Science, Veterinary**
+- 💬 Ask me about **Coding, Technology, Photography, Design, Science, Veterinary, 3D Printing**
 
 - 📫 How to reach me **guillemfd@guillemfd.com** 
 <a href="https://codepen.io/https://codepen.io/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/guillemfd" height="30" width="40" /></a>
