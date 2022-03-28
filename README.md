@@ -3,10 +3,9 @@
 <!-- <h3 align="center">About me:</h3> -->
 <p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!) <br/>
 I am a multi-disciplinary person. Throughout my career, I've been lucky enough to develop my passions in a professional way,<br/>
-therefore specialising in different fields. <br/>
- I've come to realise that I love when a project mixes technical,<br/> creative and challenging skills, so this is why I've landed
-into web development. <br/>
-Fast learner. Great at tech and motivated to succeed as a Frontend Developer. 🚀</i>
+therefore specialising in different fields. I've come to realise that I love when a project mixes technical,<br/> creative and challenging skills, so this is why I've landed into web development. <br/>
+With experience as a designer, photographer and project manager, and training as a fullstack developer and UX/UI, <br/> 
+ I’m looking to bring all these skills as **Product Manager** or a **Frontend Developer** in an exciting project. 🚀</i>
 </p>
 
 
@@ -22,6 +21,8 @@ Fast learner. Great at tech and motivated to succeed as a Frontend Developer. �
 <a href="https://codepen.io/https://codepen.io/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/guillemfd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillemfd" height="30" width="40" /></a>
 <a href="https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
+
+- ⭐ Whant to get to know me a little better? **www.guillemfd.com**
 
 
 <!-- <br style=“line-height:2;”>
