@@ -4,7 +4,7 @@
 <p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!) <br/>
 I am a multi-disciplinary person. Throughout my career, I've been lucky enough to develop my passions in a professional way,<br/>
 therefore specialising in different fields. <br/>
- I've come to realise that I love when a project mixes technical, creative and challenging skills,<br/> so this is why I've landed
+ I've come to realise that I love when a project mixes technical,<br/> creative and challenging skills, so this is why I've landed
 into web development. <br/>
 Fast learner. Great at tech and motivated to succeed as a Frontend Developer. 🚀</i>
 </p>
