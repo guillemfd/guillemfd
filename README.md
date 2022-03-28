@@ -2,10 +2,13 @@
 <!-- <h3 align="center">Web Developer & Industrial Designer</h3> -->
 <!-- <h3 align="center">About me:</h3> -->
 <p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!) <br/>
-I am a multi-disciplinary person; I have always tried to work in my passions, and this has requested me to get specialised in different fields. <br/>
-I love when a project mixes technic, creative and challenging skills, so this is why I am landing into web development. <br/>
-Fast learner. Great at tech and motivated to succeed as a MERN fullstack. 🚀</i>
+I am a multi-disciplinary person. Throughout my career, I've been lucky enough to develop my passions in a professional way,<br/>
+therefore specialising in different fields. <br/>
+ I've come to realise that I love when a project mixes technical, creative and challenging skills,<br/> so this is why I've landed
+into web development. <br/>
+Fast learner. Great at tech and motivated to succeed as a Frontend Developer. 🚀</i>
 </p>
+
 
 <br style=“line-height:2;”>
 
