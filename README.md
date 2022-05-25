@@ -5,7 +5,7 @@
 I am a multi-disciplinary person. Throughout my career, I've been lucky enough to develop my passions in a professional way,<br/>
 therefore specialising in different fields. I've come to realise that I love when a project mixes technical,<br/> creative and challenging skills, so this is why I've landed into web development. <br/>
 With experience as a designer, photographer and project manager, and training as a fullstack developer and UX/UI, <br/> 
- I’m looking to bring all these skills as <strong>Product Manager</strong> or a <strong>Frontend Developer</strong> in an exciting project. 🚀</i>
+ I’m looking to bring all these skills as <strong>Product Manager</strong> or <strong>Frontend Developer</strong> in an exciting project. 🚀</i>
 </p>
 
 
