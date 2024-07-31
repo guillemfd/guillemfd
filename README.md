@@ -3,33 +3,33 @@
 <!-- <h3 align="center">About me:</h3> -->
 <p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!) <br/>
 I am a multi-disciplinary person. Throughout my career, I've been lucky enough to develop my passions in a professional way,<br/>
-therefore specialising in different fields. I've come to realise that I love when a project mixes technical,<br/> creative and challenging skills, so this is why I've landed into web development. <br/>
-With experience as a designer, photographer and project manager, and training as a fullstack developer and UX/UI, <br/> 
+therefore specializing in different fields. I've come to realize that I love when a project mixes technical,<br/> creative and challenging skills, so this is why I've landed into web development. <br/>
+With experience as a designer, photographer and project manager, and training as a full-stack developer and UX/UI, <br/> 
  I’m looking to bring all these skills as <strong>Product Manager</strong> or <strong>Frontend Developer</strong> in an exciting project. 🚀</i>
 </p>
 
 
 <br style=“line-height:2;”>
 
-- 🌱 I’m currently focused on **HTML5, CSS3, JAVASCRIPT, NODEJS, EXPRESSJS, MONGODB, REACTJS,**
+- 🌱 Expertise on **HTML, CSS, JAVASCRIPT, REACTJS, FIGMA & ADOBE SUITE**
 
-- 👯 I’m looking to collaborate on **Coding projects**
+- 👯 I’m looking to collaborate on **Design-focused Software Products**
 
-- 💬 Ask me about **Coding, UX/UI, Technology, Photography, Design, Science, Veterinary, 3D Printing**
+- 💬 Ask me about **Coding, UX/UI, Technology, Photography, Design, Science, Veterinary & 3D Printing**
 
 - 📫 How to reach me **guillemfd@guillemfd.com** 
 <a href="https://codepen.io/https://codepen.io/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/guillemfd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guillemfd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillemfd" height="30" width="40" /></a>
 <a href="https://www.instagram.com/guillemfdphoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guillemfdphoto/" height="30" width="40" /></a>
 
-- ⭐ Whant to get to know me a little better? **www.guillemfd.com**
+- ⭐ Want to get to know me a little better? **www.guillemfd.com**
 
 
 <!-- <br style=“line-height:2;”>
  -->
 <!-- <h3 align="center">About me:</h3>
 <p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!)
-I am a multi-disciplinary person; I have always tried to work into what I love, and this has requested me to get specialised in different fields that helped to complement myself professionally and personally, providing me a global view at each situation. This diversification has been possible due to my curiosity for a continuous learning, frequently self-taught, and to keep on succeeding in new challenges.
+I am a multi-disciplinary person; I have always tried to work in what I love, and this has requested me to get specialized in different fields that helped to complement myself professionally and personally, providing me with a global view at each situation. This diversification has been possible due to my curiosity for continuous learning, frequently self-taught, and to keep on succeeding in new challenges.
 
 Fast learner. Great at tech and motivated to succeed. 💡</i>
 </p> -->
