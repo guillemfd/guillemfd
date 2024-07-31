@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guillem!</h1>
 <!-- <h3 align="center">Web Developer & Industrial Designer</h3> -->
 <!-- <h3 align="center">About me:</h3> -->
-<p align="center"><i>Licensed in Industrial Design 📐 and recently graduated in Web Development 💾 (among other things!) <br/>
-I am a multi-disciplinary person. Throughout my career, I've been lucky enough to develop my passions in a professional way,<br/>
-therefore specializing in different fields. I've come to realize that I love when a project mixes technical,<br/> creative and challenging skills, so this is why I've landed into web development. <br/>
-With experience as a designer, photographer and project manager, and training as a full-stack developer and UX/UI, <br/> 
- I’m looking to bring all these skills as <strong>Product Manager</strong> or <strong>Frontend Developer</strong> in an exciting project. 🚀</i>
+<p align="center"><i>
+     During my Bachelor’s Degree in Industrial Design 📐 I became obsessed with <strong>user-centered design<strong/> and ergonomics, understanding that if you’re not <strong>solving a problem<strong/>, designing loses its meaning. Ironhack’s bootcamp (Full-stack Web Dev.) 💾 provided me with a foundation in <strong>software<strong/> and steered me towards digital product design.<br/>
+          I feel comfortable in agile and <strong>rapidly changing<strong/> environments like a startup, where the focus can shift overnight. I am a <strong>versatile<strong/> person, so I like changing roles and adding value in different fields. I enjoy projects that demand a mix of <strong>technical<strong/>, <strong>creative<strong/>, and <strong>challenging<strong/> skills. This is why <strong>I love creating digital products!<strong/> 🚀
+</i>
 </p>
 
 
